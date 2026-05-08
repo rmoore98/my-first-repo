@@ -1,2 +1,4 @@
 # My First Repo
-Updated README.md - first successful push from Git Bash!
+This is my first GitHub repository using Git Bash.
+Updated README.md - everything is working!
+
